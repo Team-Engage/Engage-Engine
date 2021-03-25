@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "engage-engine"
-version = "1.0.0"
+version = "0.0.1"
 description = ""
 authors = ["BD103 <dont@stalk.me>"]
 readme = "README.md"
@@ -12,9 +12,10 @@ click = "^7.1.2" # Commands
 toml = "^0.10.2" # Config
 aiohttp = "^3.7.3" # Back-end
 python-socketio = "^5.1.0" # Chat Channel
+jinja2 = "^2.11.3" # Template Formatting
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+isort = "^5.8.0"
 
 [build-system]
 requires = ["poetry>=0.12"]

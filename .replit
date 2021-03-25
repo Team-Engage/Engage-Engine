@@ -1,0 +1,5 @@
+# Main Testing
+run = "python main.py"
+# Doc Testing
+# run = "cd docs ; make html ; cd _build/html ; python -m http.server 8000"
+language = "python3"
