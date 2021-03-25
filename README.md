@@ -1,4 +1,4 @@
-![Engage Engine](https://github.com/Team-Engage/Engage-Engine/raw/master/artwork/engine.png)
+![Engage Engine](https://github.com/Team-Engage/Engage-Engine/raw/main/artwork/engine.png)
 
 ## Install
 
