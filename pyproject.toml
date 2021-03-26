@@ -5,6 +5,11 @@ description = ""
 authors = ["BD103 <dont@stalk.me>"]
 readme = "README.md"
 license = "Apache-2.0"
+homepage = "https://team-engage.github.io/Engage-Engine"
+repository = "https://github.com/Team-Engage/Engage-Engine"
+packages = [
+  { include = "engage" }
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
